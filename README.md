@@ -1,0 +1,1 @@
+This is a tool originally from March 2014 for extracting Nintendo 3DS NCCHs from a file into a directory. This runs ctrtool automatically(without any ExeFS extraction etc). For example, this can be used to extract the sysmodules from the FIRM section.
